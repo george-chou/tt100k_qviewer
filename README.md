@@ -12,7 +12,7 @@ First, we need to download and extract the dataset and code:
 
 | Resource type | Download URL |
 | :---: | :--- |
-| Code | http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/data.zip |
+| Code | http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/code.zip |
 | Training dataset | http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/data.zip |
 | Test dataset 1 | http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/nosign_1.zip |
 | Test dataset 2 | http://cg.cs.tsinghua.edu.cn/traffic-sign/data_model_code/nosign_2.zip |
@@ -39,4 +39,4 @@ Click the "Random" button to show a question image randomly, and its image ID wi
 
 For more information about the usage of TT100K, please refer to the below website:
 
-http://cg.cs.tsinghua.edu.cn/traffic-sign/tutorial.html#Tsinghua-Tencent-100K-Tutorial
+http://cg.cs.tsinghua.edu.cn/traffic-sign/tutorial.html
