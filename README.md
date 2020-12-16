@@ -6,7 +6,7 @@ A browser for TT100K training dataset developed in Qt
 
 ## Dataset download
 
-First we need to download and extract the dataset and code:
+First, we need to download and extract the dataset and code:
 
 <div align=center><b>Table 1: Source download</b>
 
@@ -22,7 +22,7 @@ First we need to download and extract the dataset and code:
 
 </div>
 
-If you want to download them all, please make sure your disk have 100G free space at least. But here we only need to download the training dataset, which only takes 18G space. After downloading and extraction, put "data" directory into the code path.
+If you want to download them all, please make sure your disk has 100G free space at least. But here we only need to download the training dataset, which only takes 18G space. After downloading and extraction, put "data" directory into the code path.
 
 ## Run
 
@@ -33,8 +33,10 @@ Open `main.py` with VSCode and run the python script. If your computer has all t
 <b>Figure 1: TT100K QViewer UI</b>
 </div>
 
+Click the "Random" button to show a question image randomly, and its image ID will be printed in the text browser. Then if you click the right button, the corresponding key image will appear with bounding boxes and coordinates of boundings will also be printed in the text browser.
+
 ## TT100K Tutorial
 
-For more information about the usage of TT100K, please refer to below website:
+For more information about the usage of TT100K, please refer to the below website:
 
 http://cg.cs.tsinghua.edu.cn/traffic-sign/tutorial.html#Tsinghua-Tencent-100K-Tutorial
