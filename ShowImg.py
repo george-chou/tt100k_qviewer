@@ -11,7 +11,7 @@ import sys
 class ShowImg():
 
     def __init__(self):
-        self.datadir = sys.path[0] + "/tt100k/data"
+        self.datadir = sys.path[0] + "/data"
         self.filedir = self.datadir + "/annotations.json"
         self.ids = open(self.datadir + "/test/ids.txt").read().splitlines()
         self.annos = json.loads(open(self.filedir).read())
